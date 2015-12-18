@@ -1,0 +1,10 @@
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\bin\Debug\Eirah - Hello World!.exe.config
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\bin\Debug\Eirah - Hello World!.exe
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\bin\Debug\Eirah - Hello World!.pdb
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\bin\Debug\Eirah - Hello World!.xml
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\obj\Debug\Eirah___Hello_World_.Form1.resources
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\obj\Debug\Eirah___Hello_World_.Resources.resources
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\obj\Debug\Eirah - Hello World!.vbproj.GenerateResource.Cache
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\obj\Debug\Eirah - Hello World!.exe
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\obj\Debug\Eirah - Hello World!.xml
+c:\users\parog\documents\visual studio 2013\Projects\Eirah - Hello World!\Eirah - Hello World!\obj\Debug\Eirah - Hello World!.pdb
